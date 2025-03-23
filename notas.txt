@@ -1,0 +1,2 @@
+En este punto ya se inicializo, configuro, se creo en la rama principal un readme.md
+y se subio el repositorio.
